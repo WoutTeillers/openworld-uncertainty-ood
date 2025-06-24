@@ -1,0 +1,14 @@
+fiftyone==1.30
+matplotlib==3.9.2
+nltk==3.7
+numpy==1.24.4
+openai==1.65.4
+pandas==2.2.2
+pillow==10.2.0
+regex==2024.9.11
+scikit-learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
+torch==2.6.0
+transformers==4.49.0
+ultralytics==8.3.82
